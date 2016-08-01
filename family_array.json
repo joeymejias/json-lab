@@ -1,0 +1,50 @@
+[{
+	"name":"Joey",
+	"age":"27",
+	"quality":"badass brainiac stud muffin",
+	"appearance":
+			{
+				"eyes":"dark brown",
+				"hair":"short"
+			}
+},
+{
+	"name":"Andy",
+	"age":"25",
+	"quality":"slacker",
+	"appearance":
+		{
+			"eyes":"brown",
+			"hair":"short"
+		}
+},
+{
+	"name":"Madisyn",
+	"age":"11",
+	"quality":"spoiled brat",
+	"appearance":
+			{
+				"eyes":"brown",
+				"hair":"long"
+			}
+},
+{
+	"name":"Lourdes",
+	"age":"48",
+	"quality":"crazy mommy",
+	"appearance":
+			{
+				"eyes":"brown"
+				"hair":"long"
+			}
+},
+{
+	"name":"Efrain",
+	"age":"87",
+	"quality":"crazy grandpa",
+	"appearance":
+			{
+				"eyes":"brown"
+				"hair":"short"
+			}
+}]
